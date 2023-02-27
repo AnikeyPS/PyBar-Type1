@@ -1,1 +1,3 @@
-# PyBar-Type1
+# PyBar
+## A taskbar on python
+(beta)
