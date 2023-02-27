@@ -1,3 +1,3 @@
 # PyBar
-## A taskbar on python
-(beta)
+A taskbar on python *(beta)*
+
